@@ -2,7 +2,7 @@
 
 | Topic | TAPL Chapter# | Link | See also | 
 | --- | --- | --- | --- |
-| 0 untyped | 5 | Untyped λ Calculus | - |
+| 0 untyped | 5 | [Untyped λ Calculus](./untyped-lambda-calculus.md) | - |
 | 1 simple  | 9 | Simple Type Systems | - |
 | 2 subtype | 15 | Subtyping | - |
 | 3 rectype | 20 | Recursive Types | - |
